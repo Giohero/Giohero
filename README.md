@@ -7,7 +7,7 @@ As a music programmer and backend developer I can be the key to take your music 
 - 👨‍🏫 I’m currently learning Angular & JavaScript
 - 📲 I am looking to collaborate on Mobile Applications or Web projects.
 - 🎬 I enjoy watching Anime & Movies
-- 🎮 I really like video games, especially Zelda Breath of the Wild !!!!!
+- 🎮 I really like video games, especially The Legend of Zelda Breath of the Wild !!!!!
 
 
 ![Alt Text](https://i.redd.it/g0upkrt886a91.gif ) 
